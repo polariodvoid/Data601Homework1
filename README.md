@@ -1,4 +1,4 @@
-# Data601Homework1
+# Data601Homework2
 Data601Homework2
 Introduction: This Repo contains the report also known as the Juptyer notebook, the images included with the exploratory analysis, also the data csv file. The notebook explores the audio features of a West African music playlist titled "West African classics (Afrobeat, Highlife, Juju, Afrojazz, Afro-blues, etc) from the user Jonas Grönlund.
 Motivation: The motivation was from experiences at Nigerian functions and observing the music being different from music typically heard on the radio, and the television. The features would like to be seen to identify certain patterns, specfically the relationship between the instrumentalness and the danceibility. These two especially since from what I've noticed from from the songs on the playlist are the many sections where they are no vocal to be heard and the instruments players just 'jam' out for lack of a better term.
